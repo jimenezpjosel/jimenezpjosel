@@ -1,3 +1,6 @@
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username={jimenezpjosel}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
 # 👋 Hi, I’m José Jiménez #
 - :computer: I'm a System Engineering
 - 👀 I’m interested in Web Design, web development and Movil development
