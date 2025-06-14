@@ -1,10 +1,10 @@
 # 👋 Hi, I’m José Jiménez #
 - :computer: I'm a System Engineering
-- 👀 I’m interested in Web Design, web development and Movil development
-- 🌱 I’m currently learning Angular and Flutter
-- :briefcase: Portafolio Desing (Behance): https://www.behance.net/jimenezpjosel
+- 👀 I’m interested in Web Design, web development. Graphic Desibng and Data Engineering
+- 🌱 I’m currently learning Python and React
+- :briefcase: Portfolio Desing (Behance): https://www.behance.net/jimenezpjosel
+
 - 📫 How to reach me:
-    - :iphone: https://twitter.com/jimenezpjosel
     - :link: https://www.linkedin.com/in/jose-luis-jimenez-pimienta-2768b5200/
     - :email: jimenezpjosel@gmail.com
 
