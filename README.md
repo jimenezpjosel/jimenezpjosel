@@ -5,7 +5,7 @@
 - :briefcase: Portfolio Desing (Behance): https://www.behance.net/jimenezpjosel
 
 - 📫 How to reach me:
-    - :link: https://www.linkedin.com/in/jose-luis-jimenez-pimienta-2768b5200/
+    - :link: https://www.linkedin.com/in/jimenezpjosel/
     - :email: jimenezpjosel@gmail.com
 
 #### Github Stats
