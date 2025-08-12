@@ -1,8 +1,8 @@
 # 👋 Hi, I’m José Jiménez #
-- :computer: I'm a System Engineering
-- 👀 I’m interested in Web Design, web development. Graphic Desibng and Data Engineering
+- :computer: I'm a Systems Engineer
+- 👀 I’m interested in Web Design, web development. Graphic Design and Data Engineering
 - 🌱 I’m currently learning Python and React
-- :briefcase: Portfolio Desing (Behance): https://www.behance.net/jimenezpjosel
+- :briefcase: Portfolio Design (Behance): https://www.behance.net/jimenezpjosel
 
 - 📫 How to reach me:
     - :link: https://www.linkedin.com/in/jimenezpjosel/
